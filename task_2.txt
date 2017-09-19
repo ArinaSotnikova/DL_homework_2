@@ -1,6 +1,5 @@
 [\s][Oo][^\s]+@[^\s]+\.[^\s]*\.*[a-z]+
 25
-Outlook.2000@enron.com
 outlook.team@enron.com
 outlook.team@enron.com
 Outlook.2000@enron.com
