@@ -1,0 +1,38 @@
+Message.+\vDate.+(0[0-2]:[0-9]+:[0-9]+)+
+18
+Message-ID: <22766758.1075855690869.JavaMail.evans@thyme>
+Date: Fri, 26 May 2000 00:08:00
+Message-ID: <31697227.1075855690545.JavaMail.evans@thyme>
+Date: Thu, 22 Jun 2000 00:26:00
+Message-ID: <10221129.1075855690113.JavaMail.evans@thyme>
+Date: Tue, 11 Jul 2000 02:12:00
+Message-ID: <16453400.1075855690092.JavaMail.evans@thyme>
+Date: Tue, 11 Jul 2000 02:50:00
+Message-ID: <5791021.1075855689896.JavaMail.evans@thyme>
+Date: Tue, 18 Jul 2000 02:38:00
+Message-ID: <8214445.1075855689725.JavaMail.evans@thyme>
+Date: Thu, 3 Aug 2000 00:12:00
+Message-ID: <27259145.1075855689639.JavaMail.evans@thyme>
+Date: Mon, 7 Aug 2000 00:06:00
+Message-ID: <31200236.1075855689617.JavaMail.evans@thyme>
+Date: Mon, 7 Aug 2000 02:14:00
+Message-ID: <2663045.1075855689436.JavaMail.evans@thyme>
+Date: Thu, 10 Aug 2000 01:52:00
+Message-ID: <24302765.1075855689093.JavaMail.evans@thyme>
+Date: Thu, 24 Aug 2000 02:48:00
+Message-ID: <3143867.1075855689072.JavaMail.evans@thyme>
+Date: Fri, 25 Aug 2000 01:47:00
+Message-ID: <4512177.1075855689051.JavaMail.evans@thyme>
+Date: Fri, 25 Aug 2000 01:58:00
+Message-ID: <5273698.1075855688420.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 02:19:00
+Message-ID: <9942513.1075855688311.JavaMail.evans@thyme>
+Date: Tue, 12 Sep 2000 00:27:00
+Message-ID: <24737799.1075855688205.JavaMail.evans@thyme>
+Date: Mon, 18 Sep 2000 02:34:00
+Message-ID: <21367359.1075855688073.JavaMail.evans@thyme>
+Date: Fri, 22 Sep 2000 00:06:00
+Message-ID: <26575732.1075855687756.JavaMail.evans@thyme>
+Date: Mon, 2 Oct 2000 02:19:00
+Message-ID: <20641191.1075855687472.JavaMail.evans@thyme>
+Date: Tue, 17 Oct 2000 02:26:00
