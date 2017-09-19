@@ -1,4 +1,4 @@
-\bMessage.*\vDate.*(0[0-2]:[0-9]*:[0-9]*)+\b
+\bMessage.*\vDate.*(0[0-2]:[0-9]+:[0-9]+)+\b
 18 
 Message-ID: <22766758.1075855690869.JavaMail.evans@thyme>
 Date: Fri, 26 May 2000 00:08:00
