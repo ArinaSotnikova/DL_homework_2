@@ -1,3 +1,4 @@
+ATTENTION: I've made this task with regex101.com
 Message-ID: <\S*@\S*>\nDate: \S*, [0-9]{1,2} \S* [0-9]{4} ((0[0-2]:[0-9]{2}:[0-9]{2})|(03:00:00))
 310
 Message-ID: <24216240.1075855687451.JavaMail.evans@thyme>
