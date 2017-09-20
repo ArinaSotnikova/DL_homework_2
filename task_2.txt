@@ -1,3 +1,4 @@
+Attention: I've made this task with sublime
 [\s][Oo][^\s]+@[^\s]+\.[^\s]*\.*[a-z]+
 25
 outlook.team@enron.com
